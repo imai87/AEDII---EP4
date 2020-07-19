@@ -1,0 +1,5 @@
+Tamanho da componente conexa -> Quantidade de ocorrências
+
+0 -> 517
+1 -> 2
+3 -> 4
